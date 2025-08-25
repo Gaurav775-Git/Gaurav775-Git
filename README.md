@@ -51,12 +51,12 @@
     <td align="center" width="50%">
       <h3>🚀 Crypto Price Tracker</h3>
       <p>Real-time cryptocurrency tracker built with React & API integration.</p>
-      <a href="https://github.com/your-username/crypto-tracker">🔗 View Project</a>
+      <a href="https://github.com/Gaurav775-Git/crypto-tracker">🔗 View Project</a>
     </td>
     <td align="center" width="50%">
       <h3>🌱 Farming Schemes Portal</h3>
       <p>Dashboard for farmers to access latest government schemes easily.</p>
-      <a href="https://github.com/your-username/farming-app">🔗 View Project</a>
+      <a href="https://github.com/Gaurav775-Git/farming-app">🔗 View Project</a>
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@
     <td align="center" width="50%">
       <h3>⚡ Automation Scripts</h3>
       <p>Collection of Python & Node.js automation scripts for daily tasks.</p>
-      <a href="https://github.com/your-username/automation-scripts">🔗 View Project</a>
+      <a href="https://github.com/Gaurav775-Git/automation-scripts">🔗 View Project</a>
     </td>
   </tr>
 </table>
@@ -77,13 +77,13 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <!-- Replace 'your-username' with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" height="165"/>
+  <!-- Replace 'Gaurav775-Git' with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav775-Git&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Gaurav775-Git&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav775-Git&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -105,4 +105,4 @@
 
 ---
 
-⭐️ From [Gaurav Goswami](https://github.com/your-username)
+⭐️ From [Gaurav Goswami](https://github.com/Gaurav775-Git)
