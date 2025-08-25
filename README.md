@@ -1,22 +1,23 @@
 <!-- Header with cool typing effect -->
 <h1 align="center">Hi 👋, I'm Gaurav Goswami</h1>
-<h3 align="center">🚀 React | TypeScript | Web Developer</h3>
+<h3 align="center">🚀 React | TypeScript | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7D3&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;React+%7C+TypeScript+Enthusiast;Building+Web+Apps+with+Love" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EF7D3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Specialist;Open+Source+Contributor;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-💡 Passionate about **React, TypeScript, and Web Development**  
-🌱 Currently learning **Blockchain & Advanced Web3**  
-⚡ Loves building clean, modern, and scalable apps  
-🎯 Open for **Freelance & Open Source Contributions**
+## 👨‍💻 About Me  
+💡 I’m a **Web Developer** specializing in **React, TypeScript, and modern frontend technologies**.  
+🌱 Currently exploring **Blockchain & Web3 development** alongside my web projects.  
+⚡ I enjoy building **fast, scalable, and interactive web apps** with a strong UI/UX touch.  
+🎯 Goal: To become a **full-stack blockchain-ready developer** in the next 6 months.  
+💼 Open to **freelancing opportunities, internships, and collaborations**.  
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Arsenal  
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,8 +26,8 @@
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -39,37 +40,63 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Featured Projects  
-🔹 [**Crypto Price Tracker**](https://github.com/your-username/crypto-tracker) – Real-time cryptocurrency tracker using React + API  
-🔹 [**Farming Schemes Portal**](https://github.com/your-username/farming-app) – Govt. schemes dashboard for farmers  
-🔹 [**Portfolio Website**](https://your-portfolio-link.com) – Personal portfolio built with React & Tailwind  
+## 📌 Featured Projects  
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 Crypto Price Tracker</h3>
+      <p>Real-time cryptocurrency tracker built with React & API integration.</p>
+      <a href="https://github.com/your-username/crypto-tracker">🔗 View Project</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌱 Farming Schemes Portal</h3>
+      <p>Dashboard for farmers to access latest government schemes easily.</p>
+      <a href="https://github.com/your-username/farming-app">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Portfolio Website</h3>
+      <p>Personal portfolio made using React, Tailwind, and animations.</p>
+      <a href="https://your-portfolio-link.com">🔗 Live Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ Automation Scripts</h3>
+      <p>Collection of Python & Node.js automation scripts for daily tasks.</p>
+      <a href="https://github.com/your-username/automation-scripts">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="165"/>
+  <!-- Replace 'your-username' with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### ⚡ Fun Touch  
+## ⚡ Fun Zone  
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding gif" />
+  <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="350" alt="Coder at work" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Coding animation" />
 </p>
 
 ---
 
-### 📫 Connect With Me  
+## 📫 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
