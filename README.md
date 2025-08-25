@@ -90,7 +90,6 @@
 
 ## ⚡ Fun Zone  
 <p align="center">
-  <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="350" alt="Coder at work" />
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Coding animation" />
 </p>
 
