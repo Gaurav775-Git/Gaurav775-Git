@@ -54,9 +54,9 @@
       <a href="https://github.com/Gaurav775-Git/crypto-tracker">🔗 View Project</a>
     </td>
     <td align="center" width="50%">
-      <h3>🌱 Farming Schemes Portal</h3>
-      <p>Dashboard for farmers to access latest government schemes easily.</p>
-      <a href="https://github.com/Gaurav775-Git/farming-app">🔗 View Project</a>
+      <h3>Flip-a-coin ☢</h3>
+      <p>Flip a coin project with animation.</p>
+      <a href="https://github.com/Gaurav775-Git/Flip-a-coin">🔗 View Project</a>
     </td>
   </tr>
   <tr>
@@ -66,9 +66,9 @@
       <a href="https://your-portfolio-link.com">🔗 Live Demo</a>
     </td>
     <td align="center" width="50%">
-      <h3>⚡ Automation Scripts</h3>
+      <h3>🩺dAIgnose</h3>
       <p>Collection of Python & Node.js automation scripts for daily tasks.</p>
-      <a href="https://github.com/Gaurav775-Git/automation-scripts">🔗 View Project</a>
+      <a href="https://github.com/Gaurav775-Git/dAIgnose">🔗 View Project</a>
     </td>
   </tr>
 </table>
