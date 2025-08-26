@@ -49,9 +49,9 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 Crypto Price Tracker</h3>
-      <p>Real-time cryptocurrency tracker built with React & API integration.</p>
-      <a href="https://github.com/Gaurav775-Git/crypto-tracker">🔗 View Project</a>
+      <h3>🩺dAIgnose</h3>
+      <p>A Ai based healthcare website with voice suggestion feature.</p>
+      <a href="https://github.com/Gaurav775-Git/dAIgnose">🔗 View Project</a>
     </td>
     <td align="center" width="50%">
       <h3>Flip-a-coin ☢</h3>
@@ -63,13 +63,9 @@
     <td align="center" width="50%">
       <h3>🎨 Portfolio Website</h3>
       <p>Personal portfolio made using React, Tailwind, and animations.</p>
-      <a href="https://your-portfolio-link.com">🔗 Live Demo</a>
+      <a href="https://gaurav-portfolio-git-main-nxtweb-studios-projects.vercel.app/">🔗 Live Demo</a>
     </td>
-    <td align="center" width="50%">
-      <h3>🩺dAIgnose</h3>
-      <p>Collection of Python & Node.js automation scripts for daily tasks.</p>
-      <a href="https://github.com/Gaurav775-Git/dAIgnose">🔗 View Project</a>
-    </td>
+  
   </tr>
 </table>
 
