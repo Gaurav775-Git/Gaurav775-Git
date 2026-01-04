@@ -44,6 +44,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
+      <h3>Notes-Resolver</h3>
+      <p>Don’t panic! All your notes are safe.</p>
+      <a href="https://github.com/Gaurav775-Git/Stealth-Project">🔗 View Project</a>
+    </td>
+    <td align="center" width="50%">
       <h3>🩺 dAIgnose</h3>
       <p>An AI-based healthcare website with voice suggestions.</p>
       <a href="https://github.com/Gaurav775-Git/dAIgnose">🔗 View Project</a>
