@@ -41,32 +41,28 @@
 ---
 
 ## 📌 Featured Projects  
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Notes-Resolver</h3>
-      <p>Don’t panic! All your notes are safe.</p>
-      <a href="https://github.com/Gaurav775-Git/Stealth-Project">🔗 View Project</a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🩺 dAIgnose</h3>
-      <p>An AI-based healthcare website with voice suggestions.</p>
-      <a href="https://github.com/Gaurav775-Git/dAIgnose">🔗 View Project</a>
-    </td>
-    <td align="center" width="50%">
-      <h3>Flip-a-coin ☢</h3>
-      <p>Coin flip animation project.</p>
-      <a href="https://github.com/Gaurav775-Git/Flip-a-coin">🔗 View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎨 Portfolio Website</h3>
-      <p>Personal portfolio built with React, Tailwind & animations.</p>
-      <a href="https://gaurav-portfolio-three.vercel.app/">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
+
+### 🗂 Notes-Resolver  
+Don’t panic! All your notes are safe.  
+🔗 https://github.com/Gaurav775-Git/Stealth-Project  
+
+---
+
+### 🩺 dAIgnose  
+An AI-based healthcare website with voice suggestions.  
+🔗 https://github.com/Gaurav775-Git/dAIgnose  
+
+---
+
+### ☢ Flip-a-coin  
+Coin flip animation project.  
+🔗 https://github.com/Gaurav775-Git/Flip-a-coin  
+
+---
+
+### 🎨 Portfolio Website  
+Personal portfolio built with React, Tailwind & animations.  
+🔗 https://gaurav-portfolio-three.vercel.app/  
 
 ---
 
@@ -101,5 +97,9 @@
 </p>
 
 ---
+
+## 👀 Profile Views
+![Visitors](https://komarev.com/ghpvc/?username=Gaurav775-Git&style=for-the-badge)
+
 
 ⭐️ From **Gaurav Goswami**
