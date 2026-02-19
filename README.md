@@ -49,7 +49,7 @@ Dailist is a productive social media app.
 ---
 
 ### 🗂 Notes-Resolver  
-Don’t panic! All your notes are safe.  
+Don’t panic! All your notes are safe.
 🔗 https://github.com/Gaurav775-Git/Stealth-Project  
 
 ---
