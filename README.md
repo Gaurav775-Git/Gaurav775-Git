@@ -42,6 +42,12 @@
 
 ## 📌 Featured Projects  
 
+### 💻 Dailist
+Dailist is a productive social media app.
+🔗 https://github.com/Gaurav775-Git/Dailist 
+
+---
+
 ### 🗂 Notes-Resolver  
 Don’t panic! All your notes are safe.  
 🔗 https://github.com/Gaurav775-Git/Stealth-Project  
