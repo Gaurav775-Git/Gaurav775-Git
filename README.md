@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EF7D3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Specialist;Open+Source+Contributor;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
-----
+-----
 
 ## 👨‍💻 About Me  
 💡 I’m a **Web Developer** specializing in **React, TypeScript, and modern frontend technologies**.  
